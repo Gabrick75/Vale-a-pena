@@ -1,6 +1,8 @@
 # Vale-a-pena
 This project performs the calculation and informs whether it is more worthwhile to buy something in cash or in installments, considering the investment of money with a monthly income.
 
+Esse projeto realiza o cálculo e informa se vale mais a pena comprar algo à vista ou parcelado, considerando o investimento de dinheiro com renda mensal.
+
 # **Purchase Comparison: Cash vs. Installments**
 
 ## **Project Objective**
